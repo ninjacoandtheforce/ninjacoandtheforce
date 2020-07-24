@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Project Management Application for CISCO
+- 🔭 I’m currently working on a Project Management Application for Cisco
 - 🌱 I’m currently learning MongoDB and Microservices
 - 👯 I’m looking to collaborate on anything exciting.  I want to learn. FEEED ME (knowledge that is)!
 - 🤔 I’m looking for advice relating to career advancement, tech, Apple Glasses..
