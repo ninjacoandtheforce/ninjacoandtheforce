@@ -7,5 +7,5 @@
 - 💬 Ask me about my new colab with a young entrepreneur from Cape Town.
 - 📫 How to reach me: jaco@ninjaco.co.za
 - 😄 Pronouns: NinJaco and The Force
-- ⚡ Fun fact: I used to be an Air Traffic Controller in the South African Air Force.
+- ⚡ Fun fact: I used to be an Air Traffic Controller in the South African Air Force.  But it was not fun.
 
