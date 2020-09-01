@@ -15,4 +15,7 @@ In this repository (from last in):
 - LinkedIn/AdvancedThreading - LinkedIn Learning: Advanced Threading in C#, exercise files
 - FreeCodeCamp - API's and Microservices Certification (MongoDb, Node)
 - IQBMicroservices - .NET Core RabbitMQ Console Application
+- ApiSep - Swagger post to Rabbit MQ. Console app (.NET Core) that reads queue and populates database. Telerik Grid UI populated with data from WCF service.
+- Inventory - KnockOut, Entity CRUD
+to be continued..
 
