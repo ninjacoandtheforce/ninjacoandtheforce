@@ -18,6 +18,14 @@ In this repository (from last in):
 - IQBMicroservices - .NET Core RabbitMQ Console Application
 - ApiSep - Swagger post to Rabbit MQ. Console app (.NET Core) that reads queue and populates database. Telerik Grid UI populated with data from WCF service.
 - Inventory - KnockOut, Entity CRUD
+- SOLIDCourse - SOLID Course Udemy Practice Code
+- UnitTesting - NUnit and Moq practice code (Udemy)
+- FLovers - Web Forms, Telerik Ajax Controls, WCF, Elmah, NLog, Entity Audit
+- HardwareLogger - Entity core, SQL Lite, Vue CRUD app
+- STANLIB - WPF Broker Tool
+- PhoneBook - Angular, Entity SPA
+- KeyStone - Statistics with Python and PostgreSQL
 
-to be updated, there are about 43..
+
+to be updated, there are about 22..
 
