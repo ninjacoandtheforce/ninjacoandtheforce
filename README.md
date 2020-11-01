@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Project Management Application for Cisco
+- 🔭 I’m currently creating a new Angular 10 Web Application with NgRx, Snowflake, SQL Temporal Tables
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on anything exciting.  I want to learn. FEEED ME (knowledge that is)!
 - 🤔 I’m looking for advice relating to career advancement, tech, Apple Glasses..
