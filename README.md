@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an Universal Windows Platform for a large retail group in South Africa.
-- 🔭 I was creating a new Angular 10 Web Application with NgRx, Snowflake, SQL Temporal Tables.
-- 🌱 I’m currently learning React Native, .NET 5, WinUI
+- 🔭 I am creating UI for payment OEM.
+- 🔭 I was a senior on an Universal Windows Platform (UWP) Point of Sale (POS) for a large retail group in South Africa.
+- 🔭 I was creating a Angular 10 Web App with NgRx, Snowflake, SQL Temporal Tables and ServiceStack before that.
+- 🌱 I’m currently learning NET 5, WinUI3, Reunion, Uno
 - 👯 I’m looking to collaborate on anything exciting.  I want to learn. FEEED ME (knowledge that is)!
 - 🤔 I’m looking for advice relating to career advancement, tech, Apple Glasses..
 - 💬 Ask me about my new colab with a young entrepreneur from Cape Town.
@@ -29,5 +30,5 @@ In this repository (from last in):
 - KeyStone - Statistics with Python and PostgreSQL
 
 
-to be updated, there are about 22..
+to be updated, there are about 60..
 
