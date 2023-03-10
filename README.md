@@ -3,7 +3,7 @@
 - 🔭 I am creating UI for payment OEM.
 - 🔭 I was a senior on an Universal Windows Platform (UWP) Point of Sale (POS) for a large retail group in South Africa.
 - 🔭 I was creating a Angular 10 Web App with NgRx, Snowflake, SQL Temporal Tables and ServiceStack before that.
-- 🌱 I’m currently learning NET 5, WinUI3, Reunion, Uno
+- 🌱 I’m currently learning .NET MAUI
 - 👯 I’m looking to collaborate on anything exciting.  I want to learn. FEEED ME (knowledge that is)!
 - 🤔 I’m looking for advice relating to career advancement, tech, Apple Glasses..
 - 💬 Ask me about my new colab with a young entrepreneur from Cape Town.
