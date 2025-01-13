@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I am currently playing around with Railway, SupaBase and Digital Ocean
-- 🔭 I have created UI for a payment OEM.
+- 🔭 I am currently creating a .NET MAUI Application for a company in the Agricultural Compliance Sector
+- 🔭 I have created UI for a payment OEM, playing around with Railway, Supabase and Digital Ocean.
 - 🔭 I was a senior on a Universal Windows Platform (UWP) Point of Sale (POS) for a large retail group in South Africa.
 - 🔭 I was creating an Angular 10 Web App with NgRx, Snowflake, SQL Temporal Tables and ServiceStack before that.
 - 🌱 I’m currently learning .NET MAUI
